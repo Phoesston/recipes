@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+
+.image{
+    width: 300px;
+    height: auto;
+}
+
+
+.center #image{
+    width: 500px;
+    height: auto;
+}
+
+.recipe-list{
+    color: black;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
